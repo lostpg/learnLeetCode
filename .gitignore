@@ -1,0 +1,11 @@
+# VS Code settings
+.vscode/*
+
+# C/C++ file
+*.slo
+*.lo
+*.o
+*.obj
+
+# Java compiled class file
+*.class
